@@ -1,5 +1,5 @@
 # ToDoListWeb
-A ToDo List Webpage
+A simple To-Do List Webpage
 
 # What I Learned
 - First time buidling a webpage
